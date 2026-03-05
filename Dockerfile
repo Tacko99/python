@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 # Définir le répertoire de travail dans le conteneur
-WORKDIR /app
+WORKDIR /app-python
 
 # Copier les fichiers du projet dans le conteneur
 COPY . .
