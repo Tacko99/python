@@ -15,3 +15,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Commande pour lancer ton script Python
 CMD ["python", "app-pyton.py"]
+
